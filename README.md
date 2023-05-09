@@ -35,7 +35,7 @@ Save and Run the Program.
 ## Program:
 
 (i) block.x=1023
-
+```
 Name : K.R.Hashish Vidya Sagar
 Register No : 212222230047
 #include "../common/common.h"
@@ -187,10 +187,10 @@ int main(int argc, char **argv)
 
     return(0);
 }
-
+```
 
 (ii) block.x = 1024
-
+```
 Name : K.R.Hashish Vidya Sagar
 Register No : 212222230047
 #include "../common/common.h"
@@ -342,9 +342,9 @@ int main(int argc, char **argv)
 
     return(0);
 }
-
+```
 (iii) block.x = 256
-
+```
 Name : K.R.Hashish Vidya Sagar
 Register No : 212222230047
 #include "../common/common.h"
@@ -496,8 +496,12 @@ int main(int argc, char **argv)
 
     return(0);
 }
+```
+
 ## Output:
+
 (i)  block.x = 1023
+
 ![XP  1 IMG 1](https://github.com/hashish9275/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/118707521/d0c85db9-b018-4ac5-b2b8-14d3f5ab2066)
 
 
@@ -506,6 +510,8 @@ int main(int argc, char **argv)
 ![XP1 IMG 2](https://github.com/hashish9275/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/118707521/2984dd71-8f3a-4e85-85e7-ab97294bde55)
 
 (iii)  block.x = 256
+
+
 ![XP1 IMG3](https://github.com/hashish9275/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/118707521/8e68f06c-a188-4d1f-9e4e-6337f42abdf1)
 
 
