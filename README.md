@@ -38,18 +38,10 @@ Save and Run the Program.
 ```
 Name : K.R.Hashish Vidya Sagar
 Register No : 212222230047
-#include "../common/common.h"
+#include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
 
-/*
- * This example demonstrates a simple vector sum on the GPU and on the host.
- * sumArraysOnGPU splits the work of the vector sum across CUDA threads on the
- * GPU. Only a single thread block is used in this small case, for simplicity.
- * sumArraysOnHost sequentially iterates through vector elements on the host.
- * This version of sumArrays adds host timers to measure GPU and CPU
- * performance.
- */
 
 void checkResult(float *hostRef, float *gpuRef, const int N)
 {
